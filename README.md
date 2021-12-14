@@ -314,3 +314,4 @@ Here are listed all methods implemented in `react-native-tcp-socket`, their func
 ## License
 
 The library is released under the MIT license. For more information see [`LICENSE`](/LICENSE).
+# react-native-tcp-ip
